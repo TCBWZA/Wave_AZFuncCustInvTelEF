@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AZFuncCustInvTel.Tests/AZFuncCustInvTel.Tests.csproj" />
+  <Project Path="AZFuncCustInvTel/AZFuncCustInvTel.csproj" />
+</Solution>
